@@ -133,4 +133,4 @@ dist
 # Auth0 integration specific
 #
 
-deploy/.env
+deploy/.envdeploy/.env
